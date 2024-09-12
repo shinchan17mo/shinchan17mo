@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shinchan17mo
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python and Django 
-- 💞️ I’m looking to collaborate on masters in python 
-- 📫 How to reach me , I share LinkedIn link
+- 💞️ I’m looking to collaborate on python masters
+- 📫 How to reach me , I shared LinkedIn link
 - 😄 Pronouns: Hari Haran
 - ⚡ Fun fact: I'm a Engineer.
 
